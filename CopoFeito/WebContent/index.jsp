@@ -11,7 +11,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 
-<title>Copo Feito</title> 
+<title>Copo Feito</title>
 
 <!-- Bootstrap Core CSS -->
 <link href="bootstrap/vendor/bootstrap/css/bootstrap.min.css"
@@ -101,7 +101,7 @@
 			<div class="col-md-4">
 				<span class="fa-stack fa-4x"> <i
 					class="fa fa-circle fa-stack-2x text-primary"></i> <i
-					class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+					class="fa fa-shopping-cart fa-stack-1x"></i>
 				</span>
 				<h4 class="service-heading">Monte um Copo Personalizado</h4>
 				<p class="text-muted">Com um sistema único de personalização de
@@ -110,7 +110,7 @@
 			<div class="col-md-4">
 				<span class="fa-stack fa-4x"> <i
 					class="fa fa-circle fa-stack-2x text-primary"></i> <i
-					class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+					class="fa fa-laptop fa-stack-1x"></i>
 				</span>
 				<h4 class="service-heading">Use uma Imagem Padrão</h4>
 				<p class="text-muted">Você pode usar alguma de nossas fotos
@@ -119,7 +119,7 @@
 			<div class="col-md-4">
 				<span class="fa-stack fa-4x"> <i
 					class="fa fa-circle fa-stack-2x text-primary"></i> <i
-					class="fa fa-lock fa-stack-1x fa-inverse"></i>
+					class="fa fa-lock fa-stack-1x"></i>
 				</span>
 				<h4 class="service-heading">Faça Upload de uma Imagem</h4>
 				<p class="text-muted">Para presentear quem você mais gosta, com
@@ -148,7 +148,7 @@
 						<div class="portfolio-hover-content">
 							<i class="fa fa-plus fa-3x"></i>
 						</div>
-					</div> <img src="bootstrap/img/portfolio/startup-framework.png"
+					</div> <img src="bootstrap/img/portfolio/roundicons.png"
 					class="img-responsive" alt="">
 				</a>
 				<div class="portfolio-caption">
@@ -228,7 +228,7 @@
 				</a>
 				<div class="portfolio-caption">
 					<h4>Frete Grátis*</h4>
-					<p class="text-muted">*Para Compras Acima de 300R$</p>
+					<p class="text-muted">*Para Compras Acima de R$300,00</p>
 				</div>
 			</div>
 		</div>
@@ -334,7 +334,7 @@
 					<li class="timeline-inverted">
 						<div class="timeline-image">
 							<h4>
-								Compra <br>Efetuada. <br>Boa Lembrança!
+								<font color="000000"> Ótimo!<br>Compra<br>Efetuda!</font>
 							</h4>
 						</div>
 					</li>
@@ -347,7 +347,7 @@
 	<!-- Team Section -->
 	<section id="team" class="bg-light-gray">
 	<div class="container">
-		<div class="row">
+		<div class="row"> 
 			<div class="col-lg-12 text-center">
 				<h2 class="section-heading">Nossa Equipe</h2>
 				<h3 class="section-subheading text-muted">Conheça Nossos
